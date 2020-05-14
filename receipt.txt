@@ -1,0 +1,9 @@
+Receipt
+	First Name: Lina
+	Last Name: Breunlin
+	Ticket: Adult(Patrons aged 13+)
+	Price: $12.00
+	Venue: Litchfield Recreation Center
+	Performance: Hamlet
+	Date: May 8, 2020
+	Time: 6:30PM
